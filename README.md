@@ -3,7 +3,7 @@ Explainable AI also be referred to as interpretable Machine Learning, provide te
 Understanding the model and its behaviour is not only relevant for the devolopers but also the end users who uses them.
 For example, the out of tech industries like health care needs a better understanding in the models that are going to be used in their workspace.
 
-The complexity of the models are being increased day by day which reduces the interpretability. 
+The complexity of the models are being increased day by day, which reduces the interpretability. 
 The basic models are a lot interpretable but less acuurate. Whereas, the complex models like neural networls and Deep Learning models are more complicated and more accurate but least interpretabale. 
 As we refer them to as blackbox algorithms, to better understand those explainable AI comes into the picture.
 
